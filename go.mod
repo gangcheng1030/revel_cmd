@@ -1,4 +1,4 @@
-module github.com/revel/cmd
+module github.com/gangcheng1030/revel_cmd
 
 go 1.17
 
